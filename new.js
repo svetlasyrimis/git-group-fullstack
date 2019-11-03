@@ -1,1 +1,1 @@
-git revert bla bla
+git revert 
